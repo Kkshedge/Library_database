@@ -1,0 +1,8 @@
+POST  http://localhost:3001/add-new-issuer
+Content-Type: application/json
+
+{
+    "bookName":"Game of Thrones",
+    "issuerName":"Krishnakant Shedge",
+    "duedate":"31-12-2021"
+}
